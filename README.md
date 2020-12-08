@@ -4,6 +4,13 @@ Sudoku Solver Script based on [towardsdatascience](https://towardsdatascience.c
 
 Purpose: Expand Python Knowledge and to improve script with additional functionalities
 
+### Installation
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the following modules.
+
+```bash
+pip install PyAutoGUI
+```
+
 ### Improvements:
 
 1. Select the correct window
